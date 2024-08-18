@@ -37,77 +37,76 @@ Saman Abbaspoor, Ph.D.
 **Table of content**
 
 Session 1:
-Discover patterns in nature and explain them
-Patterns
-Observation and data structure
-Discover patterns in high-throughput datasets
-High-dimensional data spaces
-Vectors, Matrix, Linear Operations
-Dot product, cosine similarity, covariance, correlation
-Linear transformations
+  - Discover patterns in nature and explain them
+  - Patterns
+  - Observation and data structure
+  - Discover patterns in high-throughput datasets
+  - High-dimensional data spaces
+  - Vectors, Matrix, Linear Operations
+  - Dot product, cosine similarity, covariance, correlation
+  - Linear transformations
 
 Session 2:
-Eigendecomposition and Principal Component Analysis:
-Correlation spaces,
-Covariance and correlation matrix
-Eigendecomposition
-Interpreting PCA output
-Dimensionality Reduction
-PCA Assumptions and Limitations
+  - Eigendecomposition and Principal Component Analysis:
+  - Correlation spaces,
+  - Covariance and correlation matrix
+  - Eigendecomposition
+  - Interpreting PCA output
+  - Dimensionality Reduction
+  - PCA Assumptions and Limitations
 
 Session 3:
-Principal Component Analysis Applications
-
-Interpreting loadings, scores, and dimensionality reduction
-Limitations in interpretation
+  - Principal Component Analysis Applications
+  - Interpreting loadings, scores, and dimensionality reduction
+  - Limitations in interpretation
 
 Examples:
-What factors do explain the world happiness the most?
-Dataset: https://worldhappiness.report/ed/2021...
+  - What factors do explain the world happiness the most?
+    - Dataset: https://worldhappiness.report/ed/2021...
 
-Discovering structure in gene expression data for 6 cancer types
-Dataset: https://www.kaggle.com/datasets/bruno...
+  - Discovering structure in gene expression data for 6 cancer types
+    - Dataset: https://www.kaggle.com/datasets/bruno...
 
-Detecting cell assemblies in neural population spike data
+  - Detecting cell assemblies in neural population spike data
 
 Session 4:
-Neural Manifold Hypothesis
-Neural trajectory of parallel spike trains
-Strong and weak principles of neural dimension reduction
-Constraints on dynamics in high-dimensional spaces
-Latent state generative model of neural population
-Neural Dimensionality Reduction with DataHigh
-PCA Assumptions for timeseries
-Component Analysis, Manifold Learning, State-space models, and Applications
+  - Neural Manifold Hypothesis
+  - Neural trajectory of parallel spike trains
+  - Strong and weak principles of neural dimension reduction
+  - Constraints on dynamics in high-dimensional spaces
+  - Latent state generative model of neural population
+  - Neural Dimensionality Reduction with DataHigh
+  - PCA Assumptions for timeseries
+  - Component Analysis, Manifold Learning, State-space models, and Applications
 
 Session 5:
-Singular Value Decomposition
-Eigenvalues and Singular Values
-Low-rank Approximation with SVD
-Optimal Truncation
+  - Singular Value Decomposition
+  - Eigenvalues and Singular Values
+  - Low-rank Approximation with SVD
+  - Optimal Truncation
 
 Session 6:
-Review of Singular Value Decomposition (SVD)
-Low rank approximation with SVD
-Discovering dominant spatiotemporal modes in LFP with SVD
-Sparsity in statistics
-Sparse PCA
-Variance-Sparsity trade-off
-Parameter Tuning
-PCA as a regression problem
-Regularization and variable selection via the elastic net Tuning [LARS-EN]
+  - Review of Singular Value Decomposition (SVD)
+  - Low rank approximation with SVD
+  - Discovering dominant spatiotemporal modes in LFP with SVD
+  - Sparsity in statistics
+  - Sparse PCA
+  - Variance-Sparsity trade-off
+  - Parameter Tuning
+  - PCA as a regression problem
+  - Regularization and variable selection via the elastic net Tuning [LARS-EN]
 
 Session 7:
-Nonnegative Matrix Factorization (NMF)
-Timeseries Patterns and Nonnegative Matrix Factorization (NMF)
-Assumptions of NMF
-NMF Implementation
-Optimization
-Key Concepts in Optimization
-Frobenius norm
-Frobenius norm and SVD
-Concave and Convex functions
-Limitations of NNMF
+  - Nonnegative Matrix Factorization (NMF)
+  - Timeseries Patterns and Nonnegative Matrix Factorization (NMF)
+  - Assumptions of NMF
+  - NMF Implementation
+  - Optimization
+  - Key Concepts in Optimization
+  - Frobenius norm
+  - Frobenius norm and SVD
+  - Concave and Convex functions
+  - Limitations of NNMF
 
 Session 8:
 Session 9:
